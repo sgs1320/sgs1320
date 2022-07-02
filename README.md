@@ -1,4 +1,12 @@
-### Hi there 👋
+### Привет! 👋 Меня зовут Сергей, я разработчик C++
+
+Я студент курса С++ Яндекс.Практикума.
+
+Стек:<br/>
+```
+C++17, ООП, Unit tests, CMake
+```
+
 
 <!--
 **sgs1320/sgs1320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
