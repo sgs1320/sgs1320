@@ -1,11 +1,7 @@
-### Привет! 👋 Меня зовут Сергей, я разработчик C++
+### Hey! 👋 My name's Sergey
 
-Я студент курса С++ Яндекс.Практикума.
-
-Стек:<br/>
-```
-C++17, ООП, Unit tests, CMake
-```
+I've finished a C++ course from Yandex.Practice.
+Currently, I'm studying at JKU on Artificial Intelligence.
 
 
 <!--
